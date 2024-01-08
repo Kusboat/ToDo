@@ -32,7 +32,7 @@ body{
 
 .hero{
   height: 200px;
-  background-image: url('src/assets/Resources/bg-desktop-light.jpg');
+  background-image: url('./assets/Resources/bg-desktop-light.jpg');
   background-size: cover;
   color: white;
   display: flex;
@@ -201,7 +201,7 @@ button{
 
   .hero{
     height: 200px;
-    background-image: url('src/assets/Resources/bg-mobile-light.jpg');
+    background-image: url('./assets/Resources/bg-mobile-light.jpg');
     background-size: cover;
     color: white;
     display: flex;
